@@ -35,15 +35,15 @@ An NLP-powered translation web app with secure authentication, automatic languag
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend:** React, React Router, Axios
-**Backend:** FastAPI, SQLAlchemy, PostgreSQL
-**Auth:** JWT (python-jose), bcrypt password hashing (passlib)
-**NLP/Translation:** langdetect, deep-translator
-**Speech:** Web Speech API (browser-native TTS)
-**Dictionary lookup:** Free Dictionary API
-
+ 
+- **Frontend:** React, React Router, Axios
+- **Backend:** FastAPI, SQLAlchemy, PostgreSQL
+- **Auth:** JWT (python-jose), bcrypt password hashing (passlib)
+- **NLP/Translation:** langdetect, deep-translator
+- **Speech:** Web Speech API (browser-native TTS)
+- **Dictionary lookup:** Free Dictionary API
 ---
+ 
 
 ## 📂 File Structure
 
