@@ -4,7 +4,10 @@ An NLP-powered translation web app with secure authentication, automatic languag
 
 ## 🎥 Demo Video
 
+<a href="https://youtu.be/LX7JswslTX0">
+ <img width="580" height="320" alt="youtube-thumbnail" src="https://github.com/user-attachments/assets/2a93f46e-7820-4a9f-8659-05b0be26a509" />
 
+</a>
 
 
 ---
