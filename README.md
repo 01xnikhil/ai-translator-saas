@@ -169,6 +169,9 @@ Frontend runs at `http://localhost:3000`.
 **Working-Output**
  <img width="1920" height="1020" alt="Screenshot 2026-06-27 103235" src="https://github.com/user-attachments/assets/2673f1b2-5d36-422e-b364-11027037248d" />
 
+**AI Translator (NLP)-Backend**
+<img width="1920" height="1020" alt="Screenshot 2026-06-27 123640" src="https://github.com/user-attachments/assets/5f3769e6-61af-4269-b450-403b82c87dd4" />
+<img width="1920" height="612" alt="Screenshot 2026-06-27 123836" src="https://github.com/user-attachments/assets/e8a8244d-96a8-4a04-8e8a-128acf848671" />
 
 ---
 
