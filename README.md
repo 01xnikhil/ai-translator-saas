@@ -175,3 +175,7 @@ Frontend runs at `http://localhost:3000`.
 ## 👤 Author
 
 Built by [NIKHIL MISHRA]
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
